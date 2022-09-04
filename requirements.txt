@@ -1,0 +1,4 @@
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+cffi==1.15.1
+cryptography==37.0.4
+pycparser==2.21
